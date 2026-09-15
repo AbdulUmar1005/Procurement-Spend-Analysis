@@ -1,4 +1,4 @@
-**# Procurement Spend Analysis
+## Procurement Spend Analysis
 
 ## Business Problem
 Procurement teams often lack visibility into where spend is concentrated, whether pricing is consistent across purchases, and which suppliers or categories carry the most risk. This project analyzes 500 procurement transactions to surface supplier concentration, category spend distribution, and price inconsistencies that could inform vendor consolidation and contract renegotiation decisions.
