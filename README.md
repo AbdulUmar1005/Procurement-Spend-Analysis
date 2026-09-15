@@ -39,7 +39,8 @@ Python, pandas, matplotlib, Jupyter Notebook
 ## Files
 - https://github.com/AbdulUmar1005/Procurement-Spend-Analysis/blob/main/Procurement%20Spend%20Analysis.ipynb — full analysis notebook
 - https://github.com/AbdulUmar1005/Procurement-Spend-Analysis/blob/main/spend_analysis_dataset.csv — source data
-- `chart_top_suppliers.png`, `chart_spend_by_category.png`, `chart_price_variance.png` — supporting visuals
+- https://github.com/AbdulUmar1005/Procurement-Spend-Analysis/blob/main/chart_price_variance.png
+-  — supporting visuals
 
 ---
 *Analyzed $1.24M in procurement spend across 500 transactions; identified 67.5% supplier concentration risk in top 3 vendors and $5K price variance on repeat software license purchases, surfacing consolidation and contract renegotiation opportunities.***
