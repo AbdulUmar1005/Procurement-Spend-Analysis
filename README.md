@@ -38,7 +38,7 @@ Python, pandas, matplotlib, Jupyter Notebook
 
 ## Files
 - https://github.com/AbdulUmar1005/Procurement-Spend-Analysis/blob/main/Procurement%20Spend%20Analysis.ipynb — full analysis notebook
-- `spend_analysis_dataset.csv` — source data
+- https://github.com/AbdulUmar1005/Procurement-Spend-Analysis/blob/main/spend_analysis_dataset.csv — source data
 - `chart_top_suppliers.png`, `chart_spend_by_category.png`, `chart_price_variance.png` — supporting visuals
 
 ---
